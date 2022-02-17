@@ -109,6 +109,7 @@ brew install rbenv
 brew install tomcat
 brew install yarn
 brew install zlib
+brew install mongodb-community
 brew install --cask android-platform-tools
 
 # Remove outdated versions from the cellar.
