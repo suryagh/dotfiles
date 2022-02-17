@@ -111,6 +111,16 @@ brew install yarn
 brew install zlib
 brew install mongodb-community
 brew install --cask android-platform-tools
+brew install --cask visual-studio-code
+brew install --cask slack
+brew install --cask kdiff3
+brew install --cask google-chrome
+brew install --cask google-chrome-canary
+brew install --cask firefox
+brew install --cask evernote
+brew install --cask keyboard-maestro
+
+
 
 # Remove outdated versions from the cellar.
 brew cleanup
