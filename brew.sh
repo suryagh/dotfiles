@@ -97,5 +97,19 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# my custom additions
+brew install fx
+brew install jq
+brew install hyperfine
+brew install lighttpd
+brew install nginx
+brew install nvm
+brew install pup
+brew install rbenv
+brew install tomcat
+brew install yarn
+brew install zlib
+brew install --cask android-platform-tools
+
 # Remove outdated versions from the cellar.
 brew cleanup
