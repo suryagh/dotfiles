@@ -110,16 +110,17 @@ brew install tomcat
 brew install yarn
 brew install zlib
 brew install mongodb-community
-brew install --cask android-platform-tools
-brew install --cask visual-studio-code
-brew install --cask slack
-brew install --cask kdiff3
-brew install --cask google-chrome
-brew install --cask google-chrome-canary
-brew install --cask firefox
-brew install --cask evernote
-brew install --cask keyboard-maestro
-brew install --cask iterm2
+brew cask install android-platform-tools
+brew cask install --appdir="/Applications" visual-studio-code
+brew cask install --appdir="/Applications" slack
+brew cask install --appdir="/Applications" kdiff3
+brew cask install --appdir="/Applications" google-chrome
+brew cask install --appdir="/Applications" google-chrome-canary
+brew cask install --appdir="/Applications" firefox
+brew cask install --appdir="/Applications" evernote
+brew cask install --appdir="/Applications" keyboard-maestro
+brew cask install --appdir="/Applications" iterm2
+brew cask install --appdir="/Applications" dropbox
 
 
 
