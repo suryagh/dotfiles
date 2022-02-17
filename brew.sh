@@ -119,6 +119,7 @@ brew install --cask google-chrome-canary
 brew install --cask firefox
 brew install --cask evernote
 brew install --cask keyboard-maestro
+brew install --cask iterm2
 
 
 
